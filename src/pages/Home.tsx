@@ -34,7 +34,7 @@ export default function Home() {
           </Link>
 
           { /* "cards" card */ }
-          <Link className={styles['card-link']} to="/list">
+          <Link className={styles['card-link']} to="/cards">
             <div className={styles.card}>
               <h2 className={styles['card-title']}>Cards</h2>
               <p>The cards example shows how to create and utilize a reusable component.</p>
@@ -44,7 +44,7 @@ export default function Home() {
           </Link>
 
           { /* API card */ }
-          <Link className={styles['card-link']} to="/list">
+          <Link className={styles['card-link']} to="/api">
             <div className={styles.card}>
               <h2 className={styles['card-title']}>API</h2>
               <p>The API example shows how to call an API inside of a React component through an "effect" hook.</p>
