@@ -1,4 +1,4 @@
-import { JSX, useState } from "react";
+import { JSX, useState } from 'react'
 import styles from './Listing.module.css'
 
 export default function Listing() {

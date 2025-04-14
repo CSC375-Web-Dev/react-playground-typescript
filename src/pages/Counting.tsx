@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from 'react'
 import styles from './Counting.module.css'
 
 export default function Counting() {

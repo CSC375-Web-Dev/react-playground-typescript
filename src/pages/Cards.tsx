@@ -1,5 +1,5 @@
-import { JSX, useState } from "react";
-import Card from "../components/Card";
+import { JSX } from 'react'
+import Card from '../components/Card'
 import styles from './Cards.module.css'
 
 interface Animal {

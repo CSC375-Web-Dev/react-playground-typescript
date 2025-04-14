@@ -1,5 +1,5 @@
-import axios from "axios";
-import { JSX, useEffect, useState } from "react";
+import axios from 'axios'
+import { JSX, useEffect, useState } from 'react'
 import styles from './API.module.css'
 
 interface User {
